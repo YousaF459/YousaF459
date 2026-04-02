@@ -119,6 +119,10 @@ Full-stack multivendor e-commerce platform (Django + DRF + React + PostgreSQL + 
 Secure user/vendor flows, scalable architecture
 
 
+#### [DSA-Practice]([https://github.com/YousaF459/multivendor-ecommerce-webapp](https://github.com/YousaF459/DSA-Practice))
+This repository is a collection of Data Structures & Algorithms (DSA) solutions and coding problem practices. I am using Python to solve problems from platforms like LeetCode, while learning coding patterns, techniques, and best practices along the way.
+
+
 ---
 ---
 ---
