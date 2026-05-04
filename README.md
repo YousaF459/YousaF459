@@ -3,7 +3,6 @@
 
 💻 Full-Stack Developer (Backend-Focused | Django & React)
 🚀 Building real-world web applications
-📈 Learning Data Structures, Advance SQL & scalable backend systems
 
 ---
 
@@ -119,25 +118,6 @@ This repository is a collection of Data Structures & Algorithms (DSA) solutions 
 
 ---
 ---
----
-
-
-
-## 🤝 OPEN TO OPPORTUNITIES
-
-I'm looking for:
-
-* ✅ Internship opportunities
-* ✅ Junior Backend Developer roles (Python/Django)
-* ✅ Real-world projects to gain experience
-
-**I bring:**
-
-* Practical Django project experience
-* Strong learning mindset
-* Consistency and discipline
-* Business understanding (tourism system)
-
 ---
 
 ## 💬 LET'S CONNECT
