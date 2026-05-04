@@ -97,12 +97,6 @@ Designed and built a scalable multivendor e-commerce system with separate user a
 * Networking
 * Bootstrap
 
-**LEARNING:**
-
-* Data Structures & Algorithms
-* Advanced SQL
-* Backend best practices
-* Devops 
 
 ---
 ---
@@ -124,33 +118,6 @@ This repository is a collection of Data Structures & Algorithms (DSA) solutions 
 
 
 ---
----
----
-
-
-## 📚 LEARNING JOURNEY
-
-I've built and deployed real-world applications. Now I'm focusing on
-strengthening my fundamentals to write cleaner and more scalable code.
-
-**Currently Learning:**
-
-* 🔍 Data Structures & Algorithms
-
-  * Arrays, linked lists, trees (in progress)
-  * Time & space complexity
-  * Preparing for technical interviews
-
-* 📊 SQL & Database Skills
-
-  * Writing efficient queries
-  * Joins, aggregations, filtering
-  * Learning indexing basics
-
-**Why This Matters:**
-Building applications is important, but strong fundamentals help in
-writing efficient and scalable systems. I'm improving both side by side.
-
 ---
 ---
 
@@ -180,14 +147,6 @@ I'm looking for:
 
 ---
 
-## 📈 CURRENT GOALS
-
-* [ ] Improve DSA problem-solving
-* [ ] Strengthen SQL skills
-* [ ] Build more backend projects
-* [ ] Prepare for backend interviews
-
----
 
 ⭐ If you find my work interesting, feel free to connect!
 
