@@ -91,7 +91,6 @@ Designed and built a scalable multivendor e-commerce system with separate user a
 **WORKING KNOWLEDGE:**
 
 * Deployment (VPS)
-* AWS (EC2,S3,Security Groups,IAM User)
 * Linux
 * Networking
 * Bootstrap
