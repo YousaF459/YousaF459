@@ -106,7 +106,7 @@ Designed and built a scalable multivendor e-commerce system with separate user a
 Full-stack tourism booking platform (Django + DRF + React + PostgreSQL)  
 Live site, cart-based booking, email notifications, and Meta Pixel tracking
 
-#### [Multivendor E-commerce Web App](https://github.com/YousaF459/multivendor-ecommerce-webapp)
+#### [Multivendor E-commerce Web App](https://github.com/YousaF459/MultiVendor_Ecommerce_WebApp_Backend)
 Full-stack multivendor e-commerce platform (Django + DRF + React + PostgreSQL + Stripe)  
 Secure user/vendor flows, scalable architecture
 
