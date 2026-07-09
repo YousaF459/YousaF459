@@ -1,7 +1,7 @@
 # Hi, I'm Yousaf 👋
 
 
-💻 Full-Stack Developer (Backend-Focused | Django & React)
+💻 Full-Stack Developer (Backend-Focused | Django & React | Postgresql | RAG | GenAi)
 🚀 Building real-world web applications
 
 ---
