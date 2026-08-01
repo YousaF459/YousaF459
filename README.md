@@ -76,16 +76,16 @@ Designed and built a scalable multivendor e-commerce system with separate user a
 
 **STRONG:**
 
-* Python
-* Django (models, views, templates)
+* Django 
 * React
-* PostgreSQL (basic queries, joins)
+* RAG
+* PostgreSQL 
 * Git
 * Docker
+* Python
+* Javascript
 * REST APIs
 * HTML, CSS
-* Javascript
-
 
 **WORKING KNOWLEDGE:**
 
