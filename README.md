@@ -4,8 +4,6 @@
 
 I build scalable web applications and AI-powered systems using **Django**, **React**, **PostgreSQL**, and **Large Language Models (LLMs)**.
 
-Currently building an **Enterprise AI Knowledge Platform** powered by **Retrieval-Augmented Generation (RAG)**.
-
 ---
 
 ## 🚀 Featured Projects
@@ -148,6 +146,15 @@ https://github.com/YousaF459/MultiVendor_Ecommerce_WebApp_Backend
 Python solutions for Data Structures & Algorithms, coding interview preparation, and problem-solving patterns.
 
 🔗 https://github.com/YousaF459/DSA-Practice
+
+---
+
+### 📖 SQL Mastery Path
+
+A structured SQL learning repository covering everything from SQL fundamentals to advanced concepts, interview questions and hands-on practice. Built while strengthening my SQL skills through solving real-world problems and exercises on LEETCODE.
+
+🔗 Repository: https://github.com/YousaF459/sql-mastery-path
+
 
 ---
 
