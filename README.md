@@ -1,130 +1,166 @@
 # Hi, I'm Yousaf 👋
 
+### 💻 Full-Stack Developer | Building AI-Powered Applications
 
-💻 Full-Stack Developer | Building AI-Powered Applications | Django | React | PostgreSQL | RAG | LLM Applications
+I build scalable web applications and AI-powered systems using **Django**, **React**, **PostgreSQL**, and **Large Language Models (LLMs)**.
+
+Currently building an **Enterprise AI Knowledge Platform** powered by **Retrieval-Augmented Generation (RAG)**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Enterprise AI Knowledge Platform (RAG) *(In Progress)*
+
+> An enterprise AI knowledge platform that enables employees to ask questions about internal documents and receive accurate, citation-backed answers.
+
+**Tech Stack**
+
+`Python` • `Django` • `Django REST Framework` • `PostgreSQL` • `pgvector` • `Redis` • `Celery` • `Docker` • `Sentence Transformers` • `Gemini`
+
+#### ✨ Features
+
+* 🧠 Retrieval-Augmented Generation (RAG) pipeline
+* 📄 Asynchronous document ingestion
+* ✂️ Text extraction, chunking & embedding generation
+* 🔍 Semantic search with PostgreSQL + pgvector
+* 🤖 LLM-powered question answering
+* 📚 Citation-backed AI responses
+* 🏢 Multi-tenant architecture
+* 🔐 JWT authentication & role-based access control
+* ⚡ Background processing with Celery & Redis
+
+#### 📌 Status
+
+🚧 Currently under active development.
+
+#### 🔗 Repository
+
+https://github.com/YousaF459/Enterprise-RAG-AI-Knowledge-Platform
 
 ---
 
-## 🎯 KEY PROJECTS
+### 🌍 DuneTripSafari – Full-Stack Tourism Booking Platform
 
-### 🚀 Full-Stack Tourism Booking Platform (Solo Project)
+**Tech**
 
-**Tech:** Python, Django, Django REST Framework, React, PostgreSQL
-🌐 Live: https://www.dunetripsafari.com/
+`Python` • `Django` • `Django REST Framework` • `React` • `PostgreSQL`
 
-Built and deployed a complete tourism booking system with a modern full-stack architecture.
+#### 🌐 Live
 
-**Key Features:**
+https://www.dunetripsafari.com/
 
-* Cart-based booking and checkout system
-* Booking without user authentication
-* Email confirmations & booking tracking
-* API rate limiting (DRF throttling)
+#### ✨ Features
 
-**Deployment & Architecture:**
+* 🛒 Cart-based booking & checkout
+* 👤 Guest checkout (no account required)
+* 📧 Email confirmations & booking tracking
+* 🚦 API rate limiting (DRF Throttling)
 
-* Dockerized (React frontend, Django backend, PostgreSQL)
-* Deployed on VPS using Nginx + Gunicorn
+#### 🚀 Deployment
 
----
----
----
-
-### 🛒 Multivendor E-commerce Platform (Full-Stack Solo Project)
-
-**Tech:** Python, Django, Django REST Framework, React, Stripe API, AWS S3
-🌐 Live: https://advance-multivendor-webapp.netlify.app/
-🎥 Demo: https://youtu.be/9ntYVsddJ0k
-
-Designed and built a scalable multivendor e-commerce system with separate user and vendor experiences.
-
-**Key Features:**
-
-**User Side:**
-
-* Authentication (HTTP-only cookies + email verification)
-* Secure Stripe payments
-* Dashboard (orders, wishlist, reviews)
-* Real-time notifications
-
-**Vendor Side:**
-
-* Product & order management
-* Earnings analytics & sales tracking
-* Coupon system
-* Review & notification management
-
-**System Highlights:**
-
-* Scalable multivendor architecture
-* Secure REST API (Django REST Framework)
-* Fully custom React frontend
-
-**Deployment:**
-
-* Backend: Railway
-* Frontend: Netlify
-* Storage: AWS S3 (media & static files)
-
----
----
----
-
-
-
-## 🎓 TECH SKILLS
-
-**STRONG:**
-
-* Django 
-* React
-* RAG
-* PostgreSQL 
-* Git
 * Docker
-* Python
-* Javascript
-* REST APIs
-* HTML, CSS
+* Nginx
+* Gunicorn
+* VPS
 
-**WORKING KNOWLEDGE:**
+#### 🔗 Repository
 
-* Deployment (VPS)
-* Linux
-* Networking
-* Bootstrap
-
-
----
----
-
-
-### 🎯 Key Repositories
-
-#### [DuneTripSafari](https://github.com/YousaF459/DuneTripSafari---Full-Stack-Tourism-Booking-Web-App)
-Full-stack tourism booking platform (Django + DRF + React + PostgreSQL)  
-Live site, cart-based booking, email notifications, and Meta Pixel tracking
-
-#### [Multivendor E-commerce Web App](https://github.com/YousaF459/MultiVendor_Ecommerce_WebApp_Backend)
-Full-stack multivendor e-commerce platform (Django + DRF + React + PostgreSQL + Stripe)  
-Secure user/vendor flows, scalable architecture
-
-
-#### [DSA-Practice](https://github.com/YousaF459/DSA-Practice)
-This repository is a collection of Data Structures & Algorithms (DSA) solutions and coding problem practices. I am using Python to solve problems from platforms like LeetCode, while learning coding patterns, techniques, and best practices along the way.
-
-
----
----
----
-
-## 💬 LET'S CONNECT
-
-* 💼 LinkedIn: https://www.linkedin.com/in/yousaf-amin-khan-3a4b992a0/
-* 📧 Email: khanyousafamin@gmail.com
+https://github.com/YousaF459/DuneTripSafari---Full-Stack-Tourism-Booking-Web-App
 
 ---
 
+### 🛒 Multivendor E-commerce Platform
 
-⭐ If you find my work interesting, feel free to connect!
+**Tech**
 
+`Python` • `Django` • `Django REST Framework` • `React` • `PostgreSQL` • `Stripe API` • `AWS S3`
+
+#### 🌐 Live
+
+https://advance-multivendor-webapp.netlify.app/
+
+#### 🎥 Demo
+
+https://youtu.be/9ntYVsddJ0k
+
+#### ✨ Features
+
+**User**
+
+* 🔐 Authentication
+* 💳 Stripe Payments
+* ❤️ Wishlist
+* ⭐ Reviews
+* 🔔 Notifications
+
+**Vendor**
+
+* 📦 Product Management
+* 📈 Sales Analytics
+* 🎟 Coupon System
+* 📬 Order Management
+
+#### 🚀 Deployment
+
+* Railway
+* Netlify
+* AWS S3
+
+#### 🔗 Repository
+
+https://github.com/YousaF459/MultiVendor_Ecommerce_WebApp_Backend
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Python` • `JavaScript` • `HTML` • `CSS`
+
+### Backend
+
+`Django` • `Django REST Framework`
+
+### Frontend
+
+`React`
+
+### AI
+
+`RAG` • `LLMs` • `Sentence Transformers`
+
+### Database
+
+`PostgreSQL` • `pgvector`
+
+### DevOps & Tools
+
+`Docker` • `Redis` • `Celery` • `Git` • `Linux` • `Nginx` • `Gunicorn`
+
+---
+
+## 📚 Other Repository
+
+### DSA Practice
+
+Python solutions for Data Structures & Algorithms, coding interview preparation, and problem-solving patterns.
+
+🔗 https://github.com/YousaF459/DSA-Practice
+
+---
+
+## 🤝 Let's Connect
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/yousaf-amin-khan-3a4b992a0/
+
+### 📧 Email
+
+[khanyousafamin@gmail.com](mailto:khanyousafamin@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
