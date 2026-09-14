@@ -8,9 +8,9 @@ I build scalable web applications and AI-powered systems using **Django**, **Rea
 
 ## 🚀 Featured Projects
 
-### 🤖 Enterprise AI Knowledge Platform (RAG) *(In Progress)*
+### 🤖 Multi-Tenant AI RAG Knowledge Platform
 
-> An enterprise AI knowledge platform that enables employees to ask questions about internal documents and receive accurate, citation-backed answers.
+> A multi-tenant AI knowledge platform that enables employees to ask questions about organizational documents and receive grounded, citation-backed answers using Retrieval-Augmented Generation (RAG).
 
 **Tech Stack**
 
@@ -18,19 +18,18 @@ I build scalable web applications and AI-powered systems using **Django**, **Rea
 
 #### ✨ Features
 
-* 🧠 Retrieval-Augmented Generation (RAG) pipeline
-* 📄 Asynchronous document ingestion
-* ✂️ Text extraction, chunking & embedding generation
-* 🔍 Semantic search with PostgreSQL + pgvector
-* 🤖 LLM-powered question answering
-* 📚 Citation-backed AI responses
-* 🏢 Multi-tenant architecture
+* 🧠 End-to-end Retrieval-Augmented Generation (RAG) pipeline
+* 📄 Asynchronous document processing and ingestion
+* ✂️ PDF text extraction, overlapping chunking & embedding generation
+* 🔍 Semantic search using PostgreSQL + pgvector
+* 🤖 LLM-powered question answering with Gemini
+* 📚 Citation-backed responses grounded in retrieved document content
+* 🏢 Multi-tenant organization-based data isolation
 * 🔐 JWT authentication & role-based access control
 * ⚡ Background processing with Celery & Redis
-
-#### 📌 Status
-
-🚧 Currently under active development.
+* 💬 Conversation and question-answering APIs
+* 🔄 Document processing states, failure handling & reprocessing support
+* 🧪 Automated testing for authentication, permissions, async tasks, failures, and retrieval
 
 #### 🔗 Repository
 
